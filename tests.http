@@ -1,0 +1,15 @@
+### REQUEST 1: CORRECT GET 
+GET http://localhost:5999/63119 HTTP/1.1
+content-type: application/json
+
+### REQUEST 2: INCORRECT GET (length)
+GET http://localhost:5999/1111 HTTP/1.1
+content-type: application/json
+
+### REQUEST 3: INCORRECT GET (letters)
+GET http://localhost:5999/1111a HTTP/1.1
+content-type: application/json
+
+### REQUEST 4: CORRECT GET 
+GET http://localhost:5999/90403 HTTP/1.1
+content-type: application/json
