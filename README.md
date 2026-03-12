@@ -1,4 +1,4 @@
-# ZIPCODE INFORMATION MICROSERVICE
+# Zipcode Microservice
 
 This microservice provides geographical, population, and mail information about the zipcode provided 
 
